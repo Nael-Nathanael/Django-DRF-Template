@@ -1,0 +1,16 @@
+SECRET_KEY="somesecretkey"
+DEBUG=TRUE
+
+DB_NAME=""
+DB_USER=""
+DB_PASSWORD=""
+DB_HOST="localhost"
+DB_PORT=5432
+
+EMAIL_HOST="smtp.gmail.com"
+EMAIL_USE_TLS="True"
+EMAIL_PORT="587"
+EMAIL_HOST_USER=""
+EMAIL_HOST_PASSWORD=""
+
+FE_URL="http://localhost:3000"

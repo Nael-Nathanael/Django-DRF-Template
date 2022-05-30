@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  web:
+    image: project_name
+    volumes:
+      - ./media:/code/media
+    network_mode: host
